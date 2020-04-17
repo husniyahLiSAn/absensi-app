@@ -1,0 +1,32 @@
+D:\Projects\IdentityJWT\PresenceApp\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Projects\IdentityJWT\PresenceApp\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Projects\IdentityJWT\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\Projects\IdentityJWT\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Projects\IdentityJWT\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Projects\IdentityJWT\PresenceApp\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Projects\IdentityJWT\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Projects\IdentityJWT\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Dzaky Kurniawan\Downloads\PresenceApp1\PresenceApp\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Dzaky Kurniawan\Downloads\PresenceApp1\PresenceApp\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Dzaky Kurniawan\Downloads\PresenceApp1\PresenceApp\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Dzaky Kurniawan\Downloads\PresenceApp1\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Dzaky Kurniawan\Downloads\PresenceApp1\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Dzaky Kurniawan\Downloads\PresenceApp1\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Dzaky Kurniawan\Downloads\PresenceApp1\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Dzaky Kurniawan\Downloads\PresenceApp1\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.pdb
+E:\DataKerja_MII\Programming_Task\PresenceApp1\PresenceApp\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+E:\DataKerja_MII\Programming_Task\PresenceApp1\PresenceApp\Data\bin\Debug\netcoreapp3.1\Data.dll
+E:\DataKerja_MII\Programming_Task\PresenceApp1\PresenceApp\Data\bin\Debug\netcoreapp3.1\Data.pdb
+E:\DataKerja_MII\Programming_Task\PresenceApp1\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+E:\DataKerja_MII\Programming_Task\PresenceApp1\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+E:\DataKerja_MII\Programming_Task\PresenceApp1\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+E:\DataKerja_MII\Programming_Task\PresenceApp1\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.dll
+E:\DataKerja_MII\Programming_Task\PresenceApp1\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\Publish\PresenceApp\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Publish\PresenceApp\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Publish\PresenceApp\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Publish\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\Publish\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Publish\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Publish\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Publish\PresenceApp\Data\obj\Debug\netcoreapp3.1\Data.pdb
